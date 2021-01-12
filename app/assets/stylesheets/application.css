@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+     color: red;
+ }
+
+ h3 {
+     color: red;
+     font-size: 50px;
+     padding: 1px;
+ }
+
+ .beef {
+     color: red;
+ }
+
+ #beef {
+     color:aqua;
+ }
